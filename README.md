@@ -51,6 +51,10 @@ Jika menggunakan IDE seperti **IntelliJ IDEA** atau **NetBeans**, cukup jalankan
 ├── sqlite-jdbc.jar                # Driver JDBC SQLite
 ```
 
+## 🖼️ Screenshot
+Tampilan aplikasi:
+![Screenshot](screenshots/Screenshot.png
+
 ## 🛠️ Pengembangan
 ### **Menambahkan Fitur Baru**
 1. Fork repository ini.
