@@ -53,7 +53,7 @@ Jika menggunakan IDE seperti **IntelliJ IDEA** atau **NetBeans**, cukup jalankan
 
 ## 🖼️ Screenshot
 Tampilan aplikasi:
-![Screenshot](screenshots/Screenshot.png
+![Screenshot](screenshots/Screenshot.png)
 
 ## 🛠️ Pengembangan
 ### **Menambahkan Fitur Baru**
