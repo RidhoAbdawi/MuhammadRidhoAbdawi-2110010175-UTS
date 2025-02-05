@@ -20,7 +20,7 @@ Aplikasi Buku Alamat adalah program berbasis Java yang memungkinkan pengguna unt
 ## 📥 Instalasi dan Penggunaan
 ### **1. Clone Repository**
 ```sh
-git clone https://github.com/username/aplikasi-buku-alamat.git
+git clone https://github.com/RidhoAbdawi/MuhammadRidhoAbdawi-21100101750UTS.git
 cd aplikasi-buku-alamat
 ```
 
